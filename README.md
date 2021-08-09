@@ -4,4 +4,4 @@
 - Lucas Gabriel Barbosa Cunha
 - Lucas Ranieri Oliveira Martins
 
-### Temática do Projeto: ***Dados acerca da COVID-19 atrelados à taxa de vacinação da população de Minas Gerais.***
+### Temática do Projeto: ***Análise dos índices de infecção de COVID-19 atrelados à taxa de vacinação da população de Minas Gerais.***

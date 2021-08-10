@@ -32,19 +32,21 @@
 #### R:
 ### 16) Qual a macrorregião mineira que mais vacinou tardiamente ? Qual seu desempenho em relação ao aumento/constância de novos casos quando comparada às demais regiões ?
 #### R:
-### 17) Qual a cidade mineira com que tem o melhor percentual de diminuição de casos pós ínicio de vacinação ? A que região ela pertence ? Como ela compara com o a média das outras cidades de sua macrorregião ? E em relação à média das outras macrorregiões, como ele se compara ?
+### 17) Qual a cidade mineira com o menor número de novos casos pós ínicio de vacinação ? A que região ela pertence ? Como ela se compara com o a média das médias das outras cidades de sua macrorregião ? E em relação à média das outras macrorregiões, como ele se compara ?
 #### R:
-### 18) Qual a macrorregião mineira que possui o melhor percentual de dimunuição de casos pós início de vacinação ?
+### 18) Qual a macrorregião mineira que possui a diferença mais alta de novos casos, considerando antes e depois da vacinação, ou seja, qual macrorregião que diminuiu mais o índice de novos casos ?
 #### R:
-### 19) Qual a relação entre as diferentes vacinas e o aumento na ocorrência de novos casos ? E em relação à diminuição, qual a mais "eficaz" (nossa análise está ***supondo*** como eficácia a diminuição de novos casos após começar a aplicar a vacina) ?
+### 19) Qual a relação entre as diferentes vacinas e o aumento na ocorrência de novos casos ? E em relação à diminuição de novos casos, qual a mais "eficaz" (nossa análise está ***supondo*** como eficácia a diminuição de novos casos após começar a aplicar a vacina) ?
 #### R:
 ### 20) Qual a vacina mais aplicada em todo o estado ? Ela é a mais "eficaz" ? Como ela se compara em relação às demais vacinas a nível estadual e a nível macrorregional ?
 #### R:
-### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de mortes pós início da vacinação ? 
+### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
 ### R:
-### 22) Qual a macrorregião que apresentou o maior percentual de diminuição de mortes pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?
+### 22) Qual a macrorregião que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?
 ### R:
-### 23) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de mortes pós início da vacinação ? É a mesma que a vacina mais "eficaz", do item 19 ? 
+### 23) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ? É a mesma que a vacina mais "eficaz", do item 19 ? 
 ### R:
-### 24) Qual a macrorregião que tem a melhor média de novos casos depois do início da vacinação ? Qual o percentual de diferença entre a média antes da vacinação e depois do início da vacinação ?
-### R: 
+### 24) Qual a macrorregião que tem a média mais baixa de óbitos depois do início da vacinação ? Qual foi o percentual de redução ?
+### R:
+### 25) Qual a macrorregião que teve a maior diminuição de óbitos depois no início da vacinação ? Qual foi o percentual de redução ?
+### R:

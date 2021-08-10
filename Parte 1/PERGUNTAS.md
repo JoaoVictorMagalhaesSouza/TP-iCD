@@ -1,7 +1,3 @@
-# **Trabalho Prático de Introdução à Ciência dos Dados**
-### Desenvolvedores:
-- [João Victor Magalhães Souza](https://github.com/JoaoVictorMagalhaesSouza)
-- [Lucas Gabriel Barbosa Cunha](https://github.com/sw3luke)
-- [Lucas Ranieri Oliveira Martins](https://github.com/ranierilucas)
+# **Perguntas:**
 
-### Temática do Projeto: ***Análise dos índices de infecção de COVID-19 atrelados à taxa de vacinação da população de Minas Gerais.***
+### 1) 

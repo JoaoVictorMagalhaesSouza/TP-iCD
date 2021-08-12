@@ -7,4 +7,4 @@
 
 ## Nosso objetivo:
 
-#### A nossa proposta, então, é utilizar esses Bancos de Dados para produzir análises significativas acerca dos dados sobre vacinação, casos e óbitos em Minas Gerais.
+#### A nossa proposta, então, é aplicar posteriormente outras técnicas de *DataPreparation* para finalmente fazer o *join* desses Bancos de Dados para produzir as análises mais significativas acerca dos dados sobre vacinação, casos e óbitos em Minas Gerais e, posteriormente, elaborar *dashboards* que possibilitem um entendimento da nossa análise de maneira mais ao alto nível.

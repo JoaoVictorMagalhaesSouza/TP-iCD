@@ -32,7 +32,7 @@
 #### R:
 ### 16) Qual a macrorregião mineira que mais vacinou tardiamente ? Qual seu desempenho em relação ao aumento/constância de novos casos quando comparada às demais regiões ?
 #### R:
-### 17) Qual a cidade mineira com o menor número de novos casos pós ínicio de vacinação ? A que região ela pertence ? Como ela se compara com o a média das médias das outras cidades de sua macrorregião ? E em relação à média das outras macrorregiões, como ele se compara ?
+### 17) Qual a cidade mineira com o menor número de novos casos pós ínicio de vacinação ? A que região ela pertence ? Como ela se compara com o a média das médias das outras cidades de sua macrorregião ? E em relação à média das outras macrorregiões, como ela se compara ?
 #### R:
 ### 18) Qual a macrorregião mineira que possui a diferença mais alta de novos casos, considerando antes e depois da vacinação, ou seja, qual macrorregião que diminuiu mais o índice de novos casos ?
 #### R:

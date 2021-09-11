@@ -42,16 +42,12 @@
 #### R:
 ### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
 ### R:
-<hr>
 ### 22) Qual a macrorregião que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?
 ### R:
-<hr>
 ### 23) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ? É a mesma que a vacina mais "eficaz", do item 19 ? 
 ### R:
-<hr>
 ### 24) Qual a macrorregião que tem a média mais baixa de óbitos depois do início da vacinação ? Qual foi o percentual de redução ?
 ### R:
-<hr>
 ### 25) Qual a macrorregião que teve a maior diminuição de óbitos depois no início da vacinação ? Qual foi o percentual de redução ?
 ### R:
 

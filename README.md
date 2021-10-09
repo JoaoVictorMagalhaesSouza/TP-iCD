@@ -5,3 +5,5 @@
 - [Lucas Ranieri Oliveira Martins](https://github.com/ranierilucas)
 
 ### Temática do Projeto: ***Análise dos dados da COVID-19 atrelados à taxa de vacinação da população de Minas Gerais.***
+
+### Link do Collab: [Clique aqui](https://colab.research.google.com/drive/1fh88-wxkZQ0vlJtkRnyut-gCOFNf5eBv?usp=sharing) 

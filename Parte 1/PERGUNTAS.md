@@ -44,8 +44,3 @@
 ### R:
 ### 22) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ?
 ### R:
-### 23) Qual a macrorregião que tem a média mais baixa de óbitos depois do início da vacinação ? Qual foi o percentual de redução ?
-### R:
-### 24) Qual a macrorregião que teve a maior diminuição de óbitos depois no início da vacinação ? Qual foi o percentual de redução ?
-### R:
-

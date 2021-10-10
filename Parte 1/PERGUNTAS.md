@@ -38,14 +38,14 @@
 #### R:
 ### 19) Qual a vacina mais aplicada em todo o estado ? 
 #### R:
-### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
+### 20) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
 ### R:
-### 22) Qual a macrorregião que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?
+### 21) Qual a macrorregião que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?
 ### R:
-### 23) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ?
+### 22) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ?
 ### R:
-### 24) Qual a macrorregião que tem a média mais baixa de óbitos depois do início da vacinação ? Qual foi o percentual de redução ?
+### 23) Qual a macrorregião que tem a média mais baixa de óbitos depois do início da vacinação ? Qual foi o percentual de redução ?
 ### R:
-### 25) Qual a macrorregião que teve a maior diminuição de óbitos depois no início da vacinação ? Qual foi o percentual de redução ?
+### 24) Qual a macrorregião que teve a maior diminuição de óbitos depois no início da vacinação ? Qual foi o percentual de redução ?
 ### R:
 

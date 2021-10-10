@@ -36,9 +36,9 @@
 #### R:
 ### 18) Qual a macrorregião mineira que possui a diferença mais alta de novos casos, considerando antes e depois da vacinação, ou seja, qual macrorregião que diminuiu mais o índice de novos casos ?
 #### R:
-### 19) Qual a relação entre as diferentes vacinas e o aumento na ocorrência de novos casos ? E em relação à diminuição de novos casos, qual a mais "eficaz" (nossa análise está ***supondo*** como eficácia a diminuição de novos casos após começar a aplicar a vacina) ?
+### 19) Qual a vacina mais aplicada em todo o estado ? 
 #### R:
-### 20) Qual a vacina mais aplicada em todo o estado ? Ela é a mais "eficaz" ? Como ela se compara em relação às demais vacinas a nível estadual e a nível macrorregional ?
+### 20) Qual a relação entre as diferentes vacinas e o aumento na ocorrência de novos casos ?
 #### R:
 ### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
 ### R:

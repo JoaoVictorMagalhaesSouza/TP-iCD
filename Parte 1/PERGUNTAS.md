@@ -44,3 +44,5 @@
 ### R:
 ### 22) Qual a vacina mais utilizada na macrorregião que possui a menor taxa de óbitos pós início da vacinação ? E na macro de maior taxa de óbitos ?
 ### R:
+### 23) Como está a vacinação por faixa etária em todo o estado ? Quais as faixas etárias que mais vacinaram e as que menos vacinaram ?
+### R:

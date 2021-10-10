@@ -38,8 +38,6 @@
 #### R:
 ### 19) Qual a vacina mais aplicada em todo o estado ? 
 #### R:
-### 20) Qual a relação entre as diferentes vacinas e o aumento na ocorrência de novos casos ?
-#### R:
 ### 21) Qual a cidade mineira que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? 
 ### R:
 ### 22) Qual a macrorregião que apresentou o maior percentual de diminuição de óbitos pós início da vacinação ? Ela foi a que possuiu o menor índice de novos casos nesse mesmo período ?

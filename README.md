@@ -7,3 +7,5 @@
 ### Temática do Projeto: ***Análise dos dados da COVID-19 atrelados à taxa de vacinação da população de Minas Gerais.***
 
 ### Link do Collab: [Clique aqui](https://colab.research.google.com/drive/1fh88-wxkZQ0vlJtkRnyut-gCOFNf5eBv?usp=sharing) 
+
+### [Clique aqui para acessar a apresentação.](https://drive.google.com/file/d/1cl88GU1fC-u61fmPhreIsaOM80YAc_-s/view)

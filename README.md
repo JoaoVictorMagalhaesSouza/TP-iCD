@@ -1,3 +1,4 @@
+### [Clique aqui para acessar o relatório final](https://joaovictormagalhaessouza.github.io/TP-iCD/index.html)
 # **Trabalho Prático de Introdução à Ciência dos Dados**
 ### Desenvolvedores:
 - [João Victor Magalhães Souza](https://github.com/JoaoVictorMagalhaesSouza)
